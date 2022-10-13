@@ -1,0 +1,10 @@
+C:\Users\AlanI\source\repos\MemoriaE\MemoriaE\bin\Debug\MemoriaE.exe.config
+C:\Users\AlanI\source\repos\MemoriaE\MemoriaE\bin\Debug\MemoriaE.exe
+C:\Users\AlanI\source\repos\MemoriaE\MemoriaE\bin\Debug\MemoriaE.pdb
+C:\Users\AlanI\source\repos\MemoriaE\MemoriaE\obj\Debug\MemoriaE.csprojAssemblyReference.cache
+C:\Users\AlanI\source\repos\MemoriaE\MemoriaE\obj\Debug\MemoriaE.Form1.resources
+C:\Users\AlanI\source\repos\MemoriaE\MemoriaE\obj\Debug\MemoriaE.Properties.Resources.resources
+C:\Users\AlanI\source\repos\MemoriaE\MemoriaE\obj\Debug\MemoriaE.csproj.GenerateResource.cache
+C:\Users\AlanI\source\repos\MemoriaE\MemoriaE\obj\Debug\MemoriaE.csproj.CoreCompileInputs.cache
+C:\Users\AlanI\source\repos\MemoriaE\MemoriaE\obj\Debug\MemoriaE.exe
+C:\Users\AlanI\source\repos\MemoriaE\MemoriaE\obj\Debug\MemoriaE.pdb
